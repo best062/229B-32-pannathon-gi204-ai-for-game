@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ff77cc-b4a0-459d-93df-78b8970d873f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.229B-32-pannathon-gi204-ai-for-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.229B-32-pannathon-gi204-ai-for-game/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="55ff77cc-b4a0-459d-93df-78b8970d873f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +89,7 @@
       <updated>1772618767255</updated>
       <workItem from="1772618767256" duration="1000" />
       <workItem from="1772629566492" duration="18000" />
-      <workItem from="1772629613955" duration="2753000" />
+      <workItem from="1772629613955" duration="2848000" />
     </task>
     <servers />
   </component>
